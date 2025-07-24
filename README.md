@@ -9,3 +9,5 @@ https://drive.google.com/file/d/1frd1DmRl0OwpXEDl2GfSbBBSkcnpqNYO/view?usp=drive
 
 
 Labled Data
+For 2640 labeled smart contract functions, we provide the raw data and their SG representation:
+https://drive.google.com/file/d/1kXZA56svGK8laH7FmF3FRCCHH88IsKQj/view?usp=sharing
